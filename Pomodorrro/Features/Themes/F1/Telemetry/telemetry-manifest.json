@@ -1,0 +1,100 @@
+{
+  "note": "Measured F1 telemetry, mean-normalized speed vs lap distance. source 'none' = no real data available (inferred only).",
+  "circuits": {
+    "austin": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "bahrain": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "baku": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "catalunya": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "hungaroring": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "interlagos": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "jeddah": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "las-vegas": {
+      "source": "openf1",
+      "season": 2023
+    },
+    "lusail": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "madring": {
+      "source": "none"
+    },
+    "marina-bay": {
+      "source": "openf1",
+      "season": 2023
+    },
+    "melbourne": {
+      "source": "openf1",
+      "season": 2023
+    },
+    "mexico-city": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "miami": {
+      "source": "openf1",
+      "season": 2023
+    },
+    "monaco": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "montreal": {
+      "source": "openf1",
+      "season": 2023
+    },
+    "monza": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "shanghai": {
+      "source": "openf1",
+      "season": 2024
+    },
+    "silverstone": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "spa-francorchamps": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "spielberg": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "suzuka": {
+      "source": "openf1",
+      "season": 2023
+    },
+    "yas-marina": {
+      "source": "fastf1",
+      "season": 2021
+    },
+    "zandvoort": {
+      "source": "fastf1",
+      "season": 2021
+    }
+  }
+}
